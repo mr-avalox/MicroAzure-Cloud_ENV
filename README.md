@@ -51,7 +51,7 @@ Machines within the network can only be accessed by Jumpbox and ssh connection.
 
 |         Name        | Publicly Accessible | Allowed IP Addresses |
 |:-------------------:|:-------------------:|:--------------------:|
-| Jump-Box-Provisoner |         Yes         |    73.240.189.150    |
+| Jump-Box-Provisoner |         Yes         |    WorkStstion_IP    |
 |      Elk-Server     |          No         |    104.43.202.159    |
 |        Web-1        |          No         |    104.43.202.159    |
 |        Web-2        |          No         |    104.43.202.159    |
